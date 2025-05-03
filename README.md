@@ -35,7 +35,7 @@ SQL助手/
 1. 克隆仓库
 ```bash
 git clone https://github.com/xrzlizheng/SQLAssistant.git
-cd SQLAssistantBasedRAG
+cd SQLAssistant
 ```
 
 2. 安装依赖
